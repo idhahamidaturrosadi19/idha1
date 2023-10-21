@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "mahasiswa": "X",
+    "gambar": "img/profil.jpg"
+}
+
+
+html
+
+gambar = res.gambar
+
+<img src="img/profil.jpg"/>
